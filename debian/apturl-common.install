@@ -1,0 +1,6 @@
+etc/
+usr/bin/apturl
+usr/lib/python3/*-packages/AptUrl/*py*
+usr/lib/python3/*-packages/apturl-*.egg-info
+usr/share/locale
+usr/share/applications

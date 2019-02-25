@@ -1,0 +1,18 @@
+Package: apturl-common
+Source: apturl
+Version: 0.5.3+xentaos7
+Architecture: all
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
+Installed-Size: 635
+Depends: python3:any (>= 3.3.2-2~), python3-apt
+Section: admin
+Priority: optional
+Homepage: https://github.com/xentaoslinux/apturl
+Description: install packages using the apt protocol - common data
+ AptUrl is a simple graphical application that takes an URL (which follows the
+ apt-protocol) as a command line option, parses it and carries out the
+ operations that the URL describes (that is, it asks the user if he wants the
+ indicated packages to be installed and if the answer is positive does so for
+ him).
+ .
+ This package contains the common data shared between the frontends.

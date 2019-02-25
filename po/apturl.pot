@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-25 16:59+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../apturl-gtk:49
+msgid "User requested interrupt."
+msgstr ""
+
+#: ../AptUrl/Parser.py:85
+msgid "Non whitelist char in the uri"
+msgstr ""
+
+#: ../AptUrl/Parser.py:93
+msgid "Whitespace in key=value"
+msgstr ""
+
+#: ../AptUrl/Parser.py:99
+#, python-format
+msgid "Exception '%s'"
+msgstr ""
+
+#: ../AptUrl/Parser.py:109
+#, python-format
+msgid "Url string '%s' too long"
+msgstr ""
+
+#: ../AptUrl/Parser.py:115
+msgid "No ':' in the uri"
+msgstr ""
+
+#: ../AptUrl/AptUrl.py:56
+msgid "Invalid /etc/apt/sources.list file"
+msgstr ""
+
+#: ../AptUrl/AptUrl.py:59
+msgid "Software index is broken"
+msgstr ""
+
+#: ../AptUrl/AptUrl.py:60
+msgid ""
+"This is a major failure of your software management system. Please check for "
+"broken packages with synaptic, check the file permissions and correctness of "
+"the file '/etc/apt/sources.list' and reload the software information with: "
+"'sudo apt-get update' and 'sudo apt-get install -f'."
+msgstr ""
+
+#: ../AptUrl/AptUrl.py:88
+msgid "Need a url to continue, exiting"
+msgstr ""
+
+#: ../AptUrl/AptUrl.py:91
+#, python-format
+msgid "Invalid url: '%s' given, exiting"
+msgstr ""
+
+#: ../AptUrl/AptUrl.py:127
+#, python-format
+msgid "Can not deal with protocol '%s' "
+msgstr ""
+
+#: ../AptUrl/AptUrl.py:143
+#, python-format
+msgid "Package '%s' is virtual."
+msgstr ""
+
+#: ../AptUrl/AptUrl.py:146
+#, python-format
+msgid "Could not find package '%s'."
+msgstr ""
+
+#: ../AptUrl/AptUrl.py:152
+#, python-format
+msgid "Package '%s' is already installed"
+msgstr ""
+
+#: ../AptUrl/AptUrl.py:167
+#, python-format
+msgid "Can not install '%s' (%s) "
+msgstr ""
+
+#: ../AptUrl/AptUrl.py:173
+#, python-format
+msgid "Package '%s' requests minimal version '%s', but only '%s' is available"
+msgstr ""
+
+#: ../AptUrl/gtk/GtkUI.py:85
+msgid "Install additional software?"
+msgstr ""
+
+#: ../AptUrl/gtk/GtkUI.py:86
+#, python-format
+msgid "Do you want to install package '%s'?"
+msgstr ""
+
+#: ../data/apturl-gtk.ui.h:1
+msgid "_Install"
+msgstr ""
+
+#: ../data/apturl-gtk.ui.h:2
+msgid "Description"
+msgstr ""
+
+#: ../data/apturl.schemas.in.h:1
+msgid "Whether the specified command should handle \"apt\" URLs"
+msgstr ""
+
+#: ../data/apturl.schemas.in.h:2
+msgid ""
+"True if the command specified in the \"command\" key should handle \"apt\" "
+"URLs."
+msgstr ""
+
+#: ../data/apturl.schemas.in.h:3
+msgid "The handler for \"apt\" URLs"
+msgstr ""
+
+#: ../data/apturl.schemas.in.h:4
+msgid "The command used to handle \"apt\" URLs, if enabled."
+msgstr ""
+
+#: ../data/apturl.schemas.in.h:5
+msgid "Run the command in a terminal"
+msgstr ""
+
+#: ../data/apturl.schemas.in.h:6
+msgid ""
+"True if the command used to handle this type of URL should be run in a "
+"terminal."
+msgstr ""

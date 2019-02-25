@@ -1,0 +1,1118 @@
+<?xml version="1.0"?>
+<gconfschemafile>
+  <schemalist>
+    <schema>
+      <key>/schemas/desktop/gnome/url-handlers/apt/enabled</key>
+      <applyto>/desktop/gnome/url-handlers/apt/enabled</applyto>
+      <owner>apturl</owner>
+      <type>bool</type>
+      <default>true</default>
+      <locale name="C">
+        <short>Whether the specified command should handle "apt" URLs</short>
+        <long>True if the command specified in the "command" key should handle "apt" URLs.</long>
+      </locale>
+
+      <locale name="af">
+        <short>Hetsy die gespesifiseerde opdrag &quot;apt&quot; URLe moet hanteer</short>
+        <long>Waar indien die opdrag gespessifiseer in die &quot;opdrag&quot; sleutel &quot;apt&quot; URLe moet hanteer.</long>
+      </locale>
+
+      <locale name="ar">
+        <short>ما إذا على الأمر المُحدد معالجة مسارات &quot;أداة التحزيم المتقدمة&quot;</short>
+        <long>صحيح إذا كان على الأمر الذي حُدِد في مفتاح &quot;الأمر&quot; معالجة مسارات &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="ast">
+        <short>Si la orde conseñada tendría que remanar URLs d&apos;«apt»</short>
+        <long>Braero si la orde conseñada na clave «orde» tien de remanar les URLs d&apos;«apt».</long>
+      </locale>
+
+      <locale name="be">
+        <short>Ці павінен вызначаны загад апрацоўваць URL &quot;apt&quot;</short>
+        <long>Выкарыстоўваць каманду ў ключы «command» для апрацоўкі URL «apt».</long>
+      </locale>
+
+      <locale name="bg">
+        <short>Дали указаната команда трябва да обработва «apt» връзки</short>
+        <long>Вярно, ако командата е посочена в ключа «command» за обработване на «apt» връзки.</long>
+      </locale>
+
+      <locale name="bn">
+        <short>নির্দিষ্ট কমান্ড &quot;apt&quot; URLs হ্যান্ডেল করা উচিত কিনা</short>
+        <long>ট্রু হবে যদি &quot;কমান্ড&quot; কী এ নির্দিষ্ট করা কমান্ড &quot;apt&quot; URLs হ্যান্ডেল করা উচিত তবে।</long>
+      </locale>
+
+      <locale name="br">
+        <short>Menegiñ a ra ma rankfe an arc&apos;had erspizet dornata URLioù &quot;apt&quot;</short>
+        <long>Gwir mar rankfe an arc&apos;had erspizet gant an alc&apos;hwez&quot;command&quot; dornata URLioù &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="bs">
+        <short>Treba li navedena naredba upravljati &quot;apt&quot; URL-ovima</short>
+        <long>Tačno ako bi naredba određena u ključu &quot;naredba&quot; trebala upravljati &quot;apt&quot; URL-ovima.</long>
+      </locale>
+
+      <locale name="ca">
+        <short>Si l&apos;ordre especificada hauria de gestionar URL de l&apos;«apt»</short>
+        <long>Cert si l&apos;ordre especificada a la clau «command» hauria de gestionar URL de l&apos;«apt».</long>
+      </locale>
+
+      <locale name="ca@valencia">
+        <short>Si l&apos;orde especificada hauria de gestionar URL de l&apos;«apt»</short>
+        <long>Cert si l&apos;orde especificada a la clau «command» hauria de gestionar URL de l&apos;«apt».</long>
+      </locale>
+
+      <locale name="cs">
+        <short>Má určený příkaz obsluhovat &quot;apt&quot; URL?</short>
+        <long>Nastavit na hodnotu PRAVDA, pokud má příkaz určený v &quot;příkazové&quot; řádce obsluhovat &quot;apt&quot; URL.</long>
+      </locale>
+
+      <locale name="csb">
+        <short>Czë òpisóny pòlét mô òbsłëgiwac URL-e ôrtu &quot;apt&quot;.</short>
+        <long>Òznôcżô, czë pòlét òpisóny w kluczu &quot;command&quot; mô òbsłëgiwac URL-e ôrtu &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="da">
+        <short>Hvorvidt den spcificerede kommando skal håndtere &quot;apt&quot;-adresser</short>
+        <long>Sand hvis kommandoen brugt i &quot;kommando&quot;-nøglen  skal håndtere &quot;apt&quot;-adresser.</long>
+      </locale>
+
+      <locale name="de">
+        <short>Ob der festgelegte Befehl »apt«-Adressen handhaben soll</short>
+        <long>Wahr, falls der im »command«-Schlüssel festgelegte Befehl »apt«-Adressen handhaben soll.</long>
+      </locale>
+
+      <locale name="el">
+        <short>Ορίζει αν η καθορισμένη εντολή θα χειρίζεται διευθύνσεις &quot;apt&quot; URL</short>
+        <long>Αληθές αν η εντολή που καθορίζεται από το κλειδί &quot;command&quot; θα πρέπει να χειρίζεται τις διευθύνσεις &quot;apt&quot; URL.</long>
+      </locale>
+
+      <locale name="en_AU">
+        <short>Whether the specified command should handle &quot;apt&quot; URLs</short>
+        <long>True if the command specified in the &quot;command&quot; key should handle &quot;apt&quot; URLs.</long>
+      </locale>
+
+      <locale name="en_CA">
+        <short>Whether the specified command should handle &quot;apt&quot; URLs</short>
+        <long>True if the command specified in the &quot;command&quot; key should handle &quot;apt&quot; URLs.</long>
+      </locale>
+
+      <locale name="en_GB">
+        <short>Whether the specified command should handle &quot;apt&quot; URLs</short>
+        <long>True if the command specified in the &quot;command&quot; key should handle &quot;apt&quot; URLs.</long>
+      </locale>
+
+      <locale name="eo">
+        <short>Ĉu la specifita komando traktus URL de &quot;apt&quot;</short>
+        <long>Vera se la specifita komando en la ŝlosilo &quot;komando&quot; traktus URL de &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="es">
+        <short>Si el comando especificado debe manejar URLs de «apt»</short>
+        <long>Verdadero si la orden especificada en la clave «comando» debe manejar los URL de «apt».</long>
+      </locale>
+
+      <locale name="et">
+        <short>Kas määratud käsku peaks kasutama &quot;apt&quot; URLide puhul</short>
+        <long>Kui märgitud, siis kasutatakse &quot;apt&quot; URLide puhul &quot;käsu&quot; võtmes määratud käsku.</long>
+      </locale>
+
+      <locale name="eu">
+        <short>Zehaztutako komandoak &quot;apt&quot; URLak kudeatu behar al dituen</short>
+        <long>Egia, &quot;command&quot; gakoan zehaztutako aginduak &quot;apt&quot; URLak kudeatu behar baditu.</long>
+      </locale>
+
+      <locale name="fa">
+        <short>این که دستور مشخّص شده باید نشانی‌های «apt» را مدیریت کند</short>
+        <long>صحیح اگر دستور مشخّص شده در کلید «دستور» باید نشانی‌های «apt» را مدیریت کند.</long>
+      </locale>
+
+      <locale name="fi">
+        <short>Käsitteleekö määritelty komento &quot;apt&quot;-URL-osoitteet</short>
+        <long>Tosi, jos komennon tulisi käsitellä &quot;apt&quot; -URLit.</long>
+      </locale>
+
+      <locale name="fr">
+        <short>Si la commande spécifiée doit gérer les URL « apt »</short>
+        <long>Vrai si la commande spécifiée dans la clé « command » doit gérer les URL « apt ».</long>
+      </locale>
+
+      <locale name="fr_CA">
+        <short>Si la commande spécifiée devrait gérer les URL « apt »</short>
+        <long>Vrai si la commande spécifiée dans la clef « command » devrait gérer les URL « apt ».</long>
+      </locale>
+
+      <locale name="gd">
+        <short>Co-dhiù am bu chòir dhan àithne a chaidh a shònrachadh URLaichean &quot;apt&quot; a làimhseachadh</short>
+        <long>True ma bu chòir dhan àithne a chaidh a shònrachadh san iuchair &quot;command&quot; URLaichean &quot;apt&quot; a làimhseachadh.</long>
+      </locale>
+
+      <locale name="gl">
+        <short>Se a orde especificada debe manexar os URL «apt»</short>
+        <long>É verdadeiro se a orde especificada na chave «command» debera manexar os URL «apt».</long>
+      </locale>
+
+      <locale name="he">
+        <short>Whether the specified command should handle &quot;apt&quot; URLs</short>
+        <long>True if the command specified in the &quot;command&quot; key should handle &quot;apt&quot; URLs.</long>
+      </locale>
+
+      <locale name="hi">
+        <short>बहरहाल विनिर्दिष्ट निर्देश &quot;apt&quot; यूआरएल को संचालित करता है</short>
+        <long>सही है यदि निर्देश &quot;command&quot; कुंजी में विनिर्दिष्ट है तथा यह &quot;apt&quot; यूआरएल को संचालित करता हो.</long>
+      </locale>
+
+      <locale name="hr">
+        <short>Treba li navedena naredba upravljati &quot;apt&quot; URL-ovima</short>
+        <long>Istina ako bi naredba određena u ključu &quot;naredba&quot; trebala upravljati &quot;apt&quot; URL-ovima.</long>
+      </locale>
+
+      <locale name="hu">
+        <short>A megadott kulcs kezelje-e az „apt” URL címeket</short>
+        <long>Igaz, ha a „command” kulcsban megadott parancs kezeli az „apt” URL címeket.</long>
+      </locale>
+
+      <locale name="id">
+        <short>Apakah perintah yang dinyatakan mesti menangani URL &quot;apt&quot;</short>
+        <long>Benar bila perintah yang dinyatakan pada kunci &quot;command&quot; mesti menangani URL &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="is">
+        <short>Hvort þessi skipun á að sjá um „apt“ vefföng</short>
+        <long>Satt ef skipunin sem er skilgreint í „skipanalyklinum“ á að sjá um „apt“ vefföng.</long>
+      </locale>
+
+      <locale name="it">
+        <short>Indica se il comando specificato deve gestire gli URL &quot;apt&quot;</short>
+        <long>VERO se il comando specificato nella chiave &quot;command&quot; deve gestire gli URL &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="ja">
+        <short>指定されたコマンドが &quot;apt&quot; で始まるURL を扱うかどうか</short>
+        <long>&quot;command&quot; キーで指定されたコマンドで &quot;apt&quot; URL を扱う場合は、TRUE にしてください。</long>
+      </locale>
+
+      <locale name="kk">
+        <short>Көрсетілген коммандасы &quot;apt&quot; сілтемелерін өңдеуге тиісті ме</short>
+        <long>&quot;command&quot; кілтіндегі &quot;apt&quot; сілтемелерін өңдеу коммандасын қолдану.</long>
+      </locale>
+
+      <locale name="km">
+        <short>ថា​តើ​ពាក្យ​បញ្ជា​ដែល​បាន​បញ្ជាក់​នឹង​គ្រប់​គ្រង​ URLs &quot;apt&quot; ឬ​អត់</short>
+        <long>True បើ​សិន​ពាក្យ​បញ្ជា​ត្រូវ​បាន​បញ្ជាក់​នៅ​ក្នុង​គ្រាប់​ចុច​ &quot;command​&quot; នឹង​គ្រប់​គ្រង URLs &quot;apt&quot; ។</long>
+      </locale>
+
+      <locale name="ko">
+        <short>주어진 명령어가 &quot;apt&quot; URL들을 다룰 지 여부</short>
+        <long>참이면 &quot;command&quot; 키로 지정된 명령이 &quot;apt&quot; URL을 처리해야 합니다.</long>
+      </locale>
+
+      <locale name="lt">
+        <short>Ar nurodyta komanda turėtų apdoroti „apt“ universaliuosius adresus</short>
+        
+      </locale>
+
+      <locale name="lv">
+        <short>Vai norādītajai komandai būtu jāapstrādā “apt” URL</short>
+        <long>Patiess, ja “komandas” lauciņā norādītajai komandai vajadzētu apstrādāt “apt” URL.</long>
+      </locale>
+
+      <locale name="mr">
+        <short>निर्देशित आदेशाने &quot;apt&quot; URLs हाताळायचे का</short>
+        <long>&quot;आदेश&quot; कळ मधील निर्देशित आदेशाने &quot;apt&quot; URLs हाताळायचे असल्यास बरोबर.</long>
+      </locale>
+
+      <locale name="ms">
+        <short>Sama ada arahan tersebut harus menangani URL &quot;apt&quot;</short>
+        <long>Benar sekiranya arahan yang dinyatakan dalam kunci &quot;command&quot; sepatutnya menguruskan URL &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="nb">
+        <short>Om kommandoen som er satt skal håndtere «apt»-URLer</short>
+        <long>Sett til sann hvis kommandoen spesifisert i «command»-nøkkelen skal håndtere «apt»-URLer.</long>
+      </locale>
+
+      <locale name="ne">
+        <short>खुलाइएको कमान्डले  &quot;apt&quot; URL हरू सम्हाल्न पर्छ कि पर्दैन</short>
+        <long>सहि यदि &quot;कमान्ड&quot; मा खुलाइएको कमान्डले  &quot;apt&quot; URL हरू सम्हाल्न पर्ने भए।</long>
+      </locale>
+
+      <locale name="nl">
+        <short>Of de opgegeven opdracht &quot;apt&quot; URL&apos;s zou moeten verwerken</short>
+        <long>&apos;Waar&apos; indien de in de &quot;command&quot;-sleutel opgegeven opdracht, &quot;apt&quot; URL&apos;s zou moeten verwerken.</long>
+      </locale>
+
+      <locale name="oc">
+        <short>Se la comanda especificada deu gerir las URL « apt »</short>
+        <long>Verai se la comanda especificada dins la clau « command » deu gerir las URLs « apt ».</long>
+      </locale>
+
+      <locale name="pa">
+        <short>ਕੀ &apos;apt&apos; URL ਨਾਲ ਕੰਮ ਕਰਨ ਲਈ ਖਾਸ ਕਮਾਂਡ ਵਰਤਣੀ ਹੈ</short>
+        
+      </locale>
+
+      <locale name="pl">
+        <short>Określa czy polecenie powinno obsługiwać adresy URL typu &quot;apt&quot;</short>
+        <long>Określa, czy polecenie wyszczególnione w kluczu &quot;command&quot; powinno obsługiwać adresy URL typu &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="pt">
+        <short>Se o comando especificado deve manipular URLs &quot;apt&quot;</short>
+        <long>Verdadeiro se o comando especificado na chave &quot;comando&quot; deve tratar URLs &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="pt_BR">
+        <short>Se o comando especificado deve manipular &quot;apt&quot; URLs</short>
+        <long>Verdadeiro se o comando especificado no &quot;comando&quot; chave deverá tratar &quot;apt&quot; URLs</long>
+      </locale>
+
+      <locale name="ro">
+        <short>Dacă comandă specificată ar trebui să gestioneze URL-uri „apt”</short>
+        <long>Adevărat în cazul în care comanda specificată în cheia „command” trebuie să gestioneze URL-urile „apt”.</long>
+      </locale>
+
+      <locale name="ru">
+        <short>Должна ли указанная команда обрабатывать URL «apt»</short>
+        <long>Использовать команду в ключе «command» для обработки URL «apt».</long>
+      </locale>
+
+      <locale name="sk">
+        <short>Či má uvedený príkaz obsluhovať URL s protokolom „apt“</short>
+        <long>Hodnota je pravda ak príkaz uvedený voľbou „command“ má obsluhovať URL s protokolom „apt“</long>
+      </locale>
+
+      <locale name="sl">
+        <short>Ali naj naveden ukaz upravlja z URL-ji &quot;apt&quot;</short>
+        <long>Izbrana možnost določi, da ukaz naveden v ključu &quot;command&quot; upravlja z URL-ji &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="sq">
+        <short>Nëse komanda e specifikuar duhet të merret me URL-të &quot;apt&quot;</short>
+        <long>E vërtetë nëse komanda e specifikuar në butonin &quot;command&quot; duhet të merret me URL-të &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="sr">
+        <short>Да ли наведена наредба треба управљати „apt“ адресама.</short>
+        <long>Укључено ако наведена наредба у пољу „command“ треба да управља „apt“ адресама.</long>
+      </locale>
+
+      <locale name="sv">
+        <short>Huruvida det angivna kommandot ska hantera &quot;apt&quot;-url:er</short>
+        <long>Sant om kommandot angivet i nyckeln &quot;command&quot; ska hantera &quot;apt&quot;-url:er.</long>
+      </locale>
+
+      <locale name="ta">
+        <short>குறிப்பிடப்பட்ட கட்டளையானது &quot;apt&quot; URL களை கையாள வேண்டுமா</short>
+        <long>சரியென்றால் &quot;command&quot; விசை குறிப்பிடப்பட்ட கட்டளை &quot;apt&quot; URL களை கையாளும்.</long>
+      </locale>
+
+      <locale name="tg">
+        <short>Оё фармони муайяншуда бояд суроғаҳои URL-и &quot;apt&quot;-ро коркард намояд</short>
+        <long>Дуруст агар фармони муайяншуда бояд суроғаҳои URL-и &quot;apt&quot;-ро коркард намояд.</long>
+      </locale>
+
+      <locale name="tr">
+        <short>Belirtilen komutun &quot;apt&quot; URL adreslerinin ele alıp almaması</short>
+        <long>&quot;komut&quot; anahtarı seçidiğinde &quot;apt&quot; URL adreslerini kullanan komut.</long>
+      </locale>
+
+      <locale name="ug">
+        <short>بەلگىلەنگەن بۇيرۇق &quot;apt&quot; بىلەن باشلانغان URLs نى بىر تەرەپ قىلالامدۇ</short>
+        <long>&quot;command&quot; دا بېكىتىلگەن بۇيرۇقتا &quot;apt&quot; بىلەن باشلانغان URLs نى بىر تەرەپ قىلماقچى بولسا True تاللىنىدۇ</long>
+      </locale>
+
+      <locale name="uk">
+        <short>Чи повинна вказана команда оброблювати URL ареси &quot;apt&quot;</short>
+        <long>True (істина), якщо команда, вказана у ключі &quot;command&quot;, повинна оброблювати URL адреси &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="uz">
+        <short>Белгиланган буйруқ &quot;apt&quot; URL&apos;ларини қўлласинми?</short>
+        <long>Тўғри агар &quot;command&quot; калитида белгиланган буйруқ &quot;apt&quot; URL&apos;ларини қўлласа</long>
+      </locale>
+
+      <locale name="vec">
+        <short>Indica se el comando spesificà el deve gestir gli URL &quot;apt&quot;</short>
+        <long>VERO se el comando spesificà nela ciave &quot;command&quot; el deve gestir gli URL &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="vi">
+        <short>Lệnh đã cho có được dùng để xử lý &quot;apt&quot; URL không</short>
+        <long>Đúng nếu lệnh cho trong khoá &quot;lệnh&quot; được dùng xử lý &quot;apt&quot; URL</long>
+      </locale>
+
+      <locale name="zh_CN">
+        <short>指定的命令是否应当处理软件源 网址</short>
+        <long>如果在 &quot;command&quot; 按键中指定的命令应当处理软件源则为真。</long>
+      </locale>
+
+      <locale name="zh_HK">
+        <short>指定的命令是否須處理 “apt” 網址。</short>
+        <long>若設定為真，“command” 設定鍵所指定的命令須處理 “apt” 網址。</long>
+      </locale>
+
+      <locale name="zh_TW">
+        <short>指定的命令是否須處理 “apt” 網址。</short>
+        <long>若設定為真，“command” 設定鍵所指定的命令須處理 “apt” 網址。</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/desktop/gnome/url-handlers/apt/command</key>
+      <applyto>/desktop/gnome/url-handlers/apt/command</applyto>
+      <owner>apturl</owner>
+      <type>string</type>
+      <default>apturl "%s"</default>
+      <locale name="C">
+        <short>The handler for "apt" URLs</short>
+        <long>The command used to handle "apt" URLs, if enabled.</long>
+      </locale>
+
+      <locale name="af">
+        <short>Die hanteerder vir @apt@ URLe</short>
+        <long>Die opdrag wat gebruik word om &quot;apt&quot; URLe te hanteer, as aangeskakel is</long>
+      </locale>
+
+      <locale name="ar">
+        <short>معالج مسارات &quot;apt&quot;</short>
+        <long>الأمر المستخدم لمعالجة مسارات &quot;apt&quot;، إذا فُعِّل</long>
+      </locale>
+
+      <locale name="ast">
+        <short>El remanador d&apos;URLs d&apos;«apt»</short>
+        <long>La orde usada pa remanar URLs d&apos;«apt», si ta activada.</long>
+      </locale>
+
+      <locale name="be">
+        <short>Апрацоўшчык URL &quot;apt&quot;</short>
+        <long>Каманда, якая ўжываецца для апрацоўкі URL «apt».</long>
+      </locale>
+
+      <locale name="bg">
+        <short>Програма за работа с «apt» връзки</short>
+        <long>Команда за обработка на «apt» връзки, ако е включена.</long>
+      </locale>
+
+      <locale name="bn">
+        <short>&quot;apt&quot; URLs এর জন্য হ্যান্ডলার</short>
+        <long>&quot;apt&quot; URLs এর জন্য ব্যবহৃত কমান্ড, যদি সক্রিয় থাকে।</long>
+      </locale>
+
+      <locale name="br">
+        <short>An arload da zornata URLioù &quot;apt&quot;</short>
+        <long>An arc&apos;had arveret da zornata URLioù &quot;apt&quot;, mar gweredekaet.</long>
+      </locale>
+
+      <locale name="bs">
+        <short>Rukovatelj &quot;apt&quot; URL-ova</short>
+        <long>Ako je omogućeno, naredba koja se koristi za upravljanje &quot;apt&quot; URL-ovima.</long>
+      </locale>
+
+      <locale name="ca">
+        <short>El gestor per a URL de l&apos;«apt»</short>
+        <long>L&apos;ordre utilitzada per a gestionar URL de l&apos;«apt», si està habilitada.</long>
+      </locale>
+
+      <locale name="ca@valencia">
+        <short>El gestor per a URL de l&apos;«apt»</short>
+        <long>L&apos;orde utilitzada per a gestionar URL de l&apos;«apt», si està habilitada.</long>
+      </locale>
+
+      <locale name="cs">
+        <short>Obsluhovač pro &quot;apt&quot; URL</short>
+        <long>Příkaz použitý pro obsluhu &quot;apt&quot; URL, pokud je povolen.</long>
+      </locale>
+
+      <locale name="csb">
+        <short>Programa òbsłëgiwôjącô adresë URL &quot;apt&quot;</short>
+        <long>Pòlét brëkòwóny do òbsłëdżi adresów URL &quot;apt&quot;, jeżlë włączoné.</long>
+      </locale>
+
+      <locale name="da">
+        <short>Håndteringen til  &quot;apt&quot;-adresser</short>
+        <long>Kommandoen brugt til at håndtere &quot;apt&quot;-adresser (URL), hvis aktiveret.</long>
+      </locale>
+
+      <locale name="de">
+        <short>Die mit »apt«-Adressen verknüpfte Anwendung</short>
+        <long>Der Befehl, der – falls aktiviert – zum Verarbeiten von »apt«-Adressen verwendet wird.</long>
+      </locale>
+
+      <locale name="el">
+        <short>Ο χειριστής για διευθύνσεις &quot;apt&quot; URL</short>
+        <long>Η εντολή που χρησιμοποιείται για την διαχείριση διευθύνσεων URL, αν είναι ενεργοποιημένη.</long>
+      </locale>
+
+      <locale name="en_AU">
+        <short>The handler for &quot;apt&quot; URLs</short>
+        <long>The command used to handle &quot;apt&quot; URLs, if enabled.</long>
+      </locale>
+
+      <locale name="en_CA">
+        <short>The handler for &quot;apt&quot; URLs</short>
+        <long>The command used to handle &quot;apt&quot; URLs, if enabled.</long>
+      </locale>
+
+      <locale name="en_GB">
+        <short>The handler for &quot;apt&quot; URLs</short>
+        <long>The command used to handle &quot;apt&quot; URLs, if enabled.</long>
+      </locale>
+
+      <locale name="eo">
+        <short>La traktilo por URL de &quot;apt&quot;</short>
+        <long>La uzita komando por trakti URL de &quot;apt&quot;, se enŝaltita.</long>
+      </locale>
+
+      <locale name="es">
+        <short>El manejador de URL de «apt»</short>
+        <long>La orden usada para manejar URLs de «apt», si está activado.</long>
+      </locale>
+
+      <locale name="et">
+        <short>&quot;Apt&quot; URLide käitleja</short>
+        <long>Käsk, mida kasutada &quot;apt&quot; URLide jaoks, kui need on lubatud.</long>
+      </locale>
+
+      <locale name="eu">
+        <short>&quot;apt&quot; URLentzako kudeatzailea</short>
+        <long>&quot;apt&quot; URLak kudeatzeko agindua, gaituta badago.</long>
+      </locale>
+
+      <locale name="fa">
+        <short>مدیر نشانی‌های «apt»</short>
+        <long>دستور مورد استفاده برای مدیریت نشانی‌های «apt» در صورت فعّال بودن.</long>
+      </locale>
+
+      <locale name="fi">
+        <short>&quot;apt&quot; -osoitteiden käsittelijä</short>
+        <long>Komento, jolla &quot;apt&quot;-osoitteet käsitellään.</long>
+      </locale>
+
+      <locale name="fr">
+        <short>L&apos;application prenant en charge les URL « apt »</short>
+        <long>La commande utilisée pour prendre en charge les URL « apt », si activé.</long>
+      </locale>
+
+      <locale name="fr_CA">
+        <short>L&apos;application prenant en charge les URL « apt »</short>
+        <long>La commande utilisée pour prendre en charge les URL « apt », si activé.</long>
+      </locale>
+
+      <locale name="gd">
+        <short>An làimhsichear airson URLaichean &quot;apt&quot;</short>
+        <long>An àithne a tha &apos;ga chleachdadh gus URLaichean &quot;apt&quot; a làimhseachadh, ma tha sin an comas.</long>
+      </locale>
+
+      <locale name="gl">
+        <short>O que manexa os URL «apt»</short>
+        <long>A orde empregada para manexar os URLs «apt», de estar activado.</long>
+      </locale>
+
+      <locale name="he">
+        <short>The handler for &quot;apt&quot; URLs</short>
+        <long>The command used to handle &quot;apt&quot; URLs, if enabled.</long>
+      </locale>
+
+      <locale name="hi">
+        <short>&quot;apt&quot; URLs हेतु संचालक</short>
+        <long>यह निर्देश &quot;apt&quot; URLs को संचालित करेगा, यदि यह समर्थ किया गया होगा.</long>
+      </locale>
+
+      <locale name="hr">
+        <short>Rukovatelj &quot;apt&quot; URL-ova</short>
+        <long>Ako je omogućeno, naredba koja se koristi za upravljanje &quot;apt&quot; URL-ovima.</long>
+      </locale>
+
+      <locale name="hu">
+        <short>Az „apt” URL címek kezelője</short>
+        <long>Az „apt” URL címek kezelésére használt parancs, ha engedélyezett.</long>
+      </locale>
+
+      <locale name="id">
+        <short>Pemroses URL &quot;apt&quot;</short>
+        <long>Perintah untuk menangani URL &quot;apt&quot;, bila diaktifkan.</long>
+      </locale>
+
+      <locale name="is">
+        <short>Það sem sér um „apt“ vefföng</short>
+        <long>Skipunin sem sér um „apt“ vefföng, ef það er virkjað.</long>
+      </locale>
+
+      <locale name="it">
+        <short>Il gestore di URL di tipo &quot;apt&quot;</short>
+        <long>Se abilitato, il comando usato per gestire gli URL di tipo &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="ja">
+        <short>&quot;apt&quot; URLのためのハンドラ</short>
+        <long>有効な場合に、&quot;apt&quot; URLを扱うコマンドです。</long>
+      </locale>
+
+      <locale name="kk">
+        <short>&quot;apt&quot; сілтемелерін өңдеуіші</short>
+        <long>&quot;apt&quot; сілтемелерін өңдеу коммандасы.</long>
+      </locale>
+
+      <locale name="km">
+        <short>កម្មវិធី​គ្រប់​គ្រង​សម្រាប់​ URLs  &quot;apt&quot;</short>
+        <long>ពាក្យ​បញ្ជា​ដែល​ប្រើ​សម្រាប់​គ្រប់​គ្រង​ URLs &quot;apt&quot;  បើ​សិន​បើក​ ។</long>
+      </locale>
+
+      <locale name="ko">
+        <short>&quot;apt&quot; URL용 핸들러</short>
+        <long>이 기능을 이용할 경우 &quot;apt&quot; URL을 처리하기 위해 사용할 명령</long>
+      </locale>
+
+      <locale name="lt">
+        <short>Doroklė skirta „apt“ URL tvarkyti</short>
+        <long>Komanda naudojama „apt“ URL apdoroti, jei įjungta.</long>
+      </locale>
+
+      <locale name="lv">
+        <short>“apt” URL apstrādātājs</short>
+        <long>Komanda ar kuru apstrādāt “apt” URL, ja aktivēts.</long>
+      </locale>
+
+      <locale name="mr">
+        <short>&quot;apt&quot; URLs ची हाताळणी करणारा</short>
+        <long>जर कार्यान्वित केलेले असेल तर &quot;apt&quot; URLs ची हाताळणी करण्याकरिता वापरण्याचा आदेश</long>
+      </locale>
+
+      <locale name="ms">
+        <short>Pengurus URL &quot;apt&quot;</short>
+        <long>Arahan akan menguruskan URL &quot;apt&quot;, sekiranya dihidupkan</long>
+      </locale>
+
+      <locale name="nb">
+        <short>Håndtereren for «apt»-URLer</short>
+        <long>Kommandoen som håndterer «apt»-URLer, hvis de er aktivert.</long>
+      </locale>
+
+      <locale name="ne">
+        <short>&quot;apt&quot; URLs लागि हयान्डलर</short>
+        <long>&quot;apt&quot; URL हरू सम्हाल्न प्रयोग गरिने कमान्ड , यदि सक्रिय पारिएको भए ।</long>
+      </locale>
+
+      <locale name="nl">
+        <short>De verwerker voor &quot;apt&quot; URL&apos;s</short>
+        <long>De opdracht dat gebruikt wordt voor het verwerken van &quot;apt&quot; URL&apos;s, indien ingeschakeld.</long>
+      </locale>
+
+      <locale name="oc">
+        <short>L&apos;aplicacion que pren en carga las URLs « apt »</short>
+        <long>La comanda utilizada per prene en carga las URLs « apt », se activat.</long>
+      </locale>
+
+      <locale name="pa">
+        <short>&quot;apt&quot; URL ਲਈ ਹੈਂਡਲਰ</short>
+        <long>&quot;apt&quot; URL ਹੈਂਡਲ ਕਰਨ ਵਰਤਣ ਵਾਸਤੇ ਕਮਾਂਡ ਜੇ ਚਾਲੂ ਹੈ।</long>
+      </locale>
+
+      <locale name="pl">
+        <short>Program obsługujący adresy URL typu &quot;apt&quot;</short>
+        <long>Polecenie używane do obsługi adresów URL typu &quot;apt&quot;, jeśli włączone.</long>
+      </locale>
+
+      <locale name="pt">
+        <short>O gestor dos URLs &quot;apt&quot;</short>
+        <long>O comando usado para gerir os URLs &quot;apt&quot;, se activado.</long>
+      </locale>
+
+      <locale name="pt_BR">
+        <short>O manipulador para URLs &quot;apt&quot;</short>
+        <long>O comando usado para manipular as URLs &quot;apt&quot;, se habilitado.</long>
+      </locale>
+
+      <locale name="ro">
+        <short>Comanda de gestionare pentru URL-uri „apt”</short>
+        <long>Comanda folosită pentru gestionarea URL-urile „apt”, dacă este activată.</long>
+      </locale>
+
+      <locale name="ru">
+        <short>Обработчик URL «apt»</short>
+        <long>Команда, используемая для обработки URL «apt».</long>
+      </locale>
+
+      <locale name="sk">
+        <short>Obsluha URL s protokolom „apt“</short>
+        <long>Príkaz, ktorý sa používa na obsluhu URL s protokolom „apt“, ak je povolená.</long>
+      </locale>
+
+      <locale name="sl">
+        <short>Upravljalnik za URL-je &quot;apt&quot;</short>
+        <long>Ukaz za rokovanje z URL-ji &quot;apt&quot;, če je to omogočeno.</long>
+      </locale>
+
+      <locale name="sq">
+        <short>Përdoruesi i URL-ve &quot;apt&quot;</short>
+        <long>Komanda përdoret për tu marrë me URL-të &quot;apt&quot;, nëse aktivizohet.</long>
+      </locale>
+
+      <locale name="sr">
+        <short>Управник „apt“ адресама.</short>
+        <long>Наредба која се користи за управљање „apt“ адресама, ако је укључена.</long>
+      </locale>
+
+      <locale name="sv">
+        <short>Hanteraren för &quot;apt&quot;-url:er</short>
+        <long>Kommandot som används för att hantera &quot;apt&quot;-url:er, om aktiverat</long>
+      </locale>
+
+      <locale name="ta">
+        <short>&quot;apt&quot; URL களுக்கான ஆளுனர்</short>
+        <long>செயற்படுத்தப்பட்டிருந்தால், கட்டயைானது &quot;apt&quot; URL களை கையாளப் பயன்படும்.</long>
+      </locale>
+
+      <locale name="te">
+        
+        <long>కమాండ్ క్రియాశీలీకరించబడితే, &quot;apt&quot; URL లను సంభాలించుటకు ఉపయోగిస్తారు.</long>
+      </locale>
+
+      <locale name="tg">
+        <short>Барномаи коркарди суроғаҳои URL-и &quot;apt&quot;</short>
+        <long>Фармоне, ки барои коркарди суроғаҳои URL-и &quot;apt&quot; истифода мешавад, агар фаъол бошад.</long>
+      </locale>
+
+      <locale name="tr">
+        <short>&quot;apt&quot; URL adres işleyicisi</short>
+        <long>Seçildiği taktirde &quot;apt&quot; URL adresi komutu kullanılır.</long>
+      </locale>
+
+      <locale name="ug">
+        <short>تور ئادىرىسى ماۋزۇسىapt</short>
+        <long>ئىناۋەتلىك قىلىنسا،  بۇيرۇق &quot;apt&quot; بىلەن باشلانغان URLs نى بىر تەرەپ قىلىدۇ.</long>
+      </locale>
+
+      <locale name="uk">
+        <short>Типовий обробник для URL адреси &quot;apt&quot;</short>
+        <long>Команда використовується для обробки &quot;apt&quot; URL-адреси, якщо дозволено.</long>
+      </locale>
+
+      <locale name="uz">
+        <short>&quot;apt&quot; URL&apos;лари бошқарувчиси</short>
+        <long>&quot;apt&quot; URL&apos;ларини қўллаш учун буйруқ, фаоллаштирилган бўлса.</long>
+      </locale>
+
+      <locale name="vec">
+        <short>El gestor de URL de tipo &quot;apt&quot;</short>
+        <long>Se abilità, el comando usà par gestir gli URL de tipo &quot;apt&quot;.</long>
+      </locale>
+
+      <locale name="vi">
+        <short>Xử lý &quot;apt&quot; URL</short>
+        <long>Lệnh để xử lý &quot;apt&quot; URL, nếu được chọn.</long>
+      </locale>
+
+      <locale name="zh_CN">
+        <short>“apt”地址处理器</short>
+        <long>如果此程序被启用，将用来处理“apt”地址。</long>
+      </locale>
+
+      <locale name="zh_HK">
+        <short>“apt” 網址的處理器</short>
+        <long>用來處理 “apt” 網址的命令。(如果已啟用)</long>
+      </locale>
+
+      <locale name="zh_TW">
+        <short>“apt” 網址的處理器</short>
+        <long>用來處理「apt」URL 的命令。(如果已啟用)</long>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/desktop/gnome/url-handlers/apt/needs_terminal</key>
+      <applyto>/desktop/gnome/url-handlers/apt/needs_terminal</applyto>
+      <owner>apturl</owner>
+      <type>bool</type>
+      <default>false</default>
+      <locale name="C">
+        <short>Run the command in a terminal</short>
+        <long>True if the command used to handle this type of URL should be run in a terminal.</long>
+      </locale>
+
+      <locale name="af">
+        <short>Loop die opdrag in &apos;n terminaal</short>
+        <long>Waar indien die opdrag wat hierdie tipe URL hanteer in &apos;n terminaal moet loop.</long>
+      </locale>
+
+      <locale name="am">
+        <short>ትእዛዙን ከተርሚናል ማአስኬድ</short>
+        
+      </locale>
+
+      <locale name="ar">
+        <short>نَفِّذ الأمر في طرفية</short>
+        <long>صحيح إذا كان الأمر المستخدم لمعالجة هذا النوع من المسارات يجب تنفيذه في طرفية.</long>
+      </locale>
+
+      <locale name="ast">
+        <short>Executar la orde nun terminal</short>
+        <long>Braero si la orde usada pa remanar esta triba d&apos;URLs hai qu&apos;executala nuna terminal</long>
+      </locale>
+
+      <locale name="be">
+        <short>Выканаць каманду ў тэрмінале</short>
+        <long>Праўда, калі каманда для апрацоўкі гэтага тыпу URL мусіць выконвацца ў тэрмінале.</long>
+      </locale>
+
+      <locale name="bg">
+        <short>Изпълни командата в терминал</short>
+        <long>Вярно, ако командата се използва за достъп до връзката от този тип трябва да се изпълни в терминал.</long>
+      </locale>
+
+      <locale name="bn">
+        <short>কমান্ডটি টার্মিনালে চালাও</short>
+        <long>এই ধরনের URL ব্যবস্থাকারী কমান্ড টার্মিনালে চালানো হলে মান সত্য।</long>
+      </locale>
+
+      <locale name="br">
+        <short>Erounit an arc&apos;had en un dermenell</short>
+        <long>Gwir mar rankfe an arc&apos;had arveret da zornata ar rizh URL-mañ bezañ erounezet en un dermenell.</long>
+      </locale>
+
+      <locale name="bs">
+        <short>Pokreni komandu u terminalu</short>
+        <long>„Tačno“ ukoliko bi komanda za rad sa ovim tipom adresa trebala biti pokrenuta u terminalu.</long>
+      </locale>
+
+      <locale name="ca">
+        <short>Executa l&apos;ordre en un terminal</short>
+        <long>Cert si l&apos;ordre emprada per aquest tipus d&apos;URL s&apos;ha d&apos;executar en un terminal.</long>
+      </locale>
+
+      <locale name="ca@valencia">
+        <short>Executa l&apos;orde en un terminal</short>
+        <long>Cert si l&apos;orde emprada per este tipus d&apos;URL s&apos;ha d&apos;executar en un terminal.</long>
+      </locale>
+
+      <locale name="cs">
+        <short>Spustit příkaz v terminálu</short>
+        <long>Nastavit na hodnotu PRAVDA, pokud má být příkaz použitý pro obsluhu tohoto typu URL spuštěn v terminálu.</long>
+      </locale>
+
+      <locale name="csb">
+        <short>Zrëszë pòlét w terminalu</short>
+        <long>Òznôczô czë programa òbsłëgiwôjącô adresã URL mô bëc zrëszany w terminalu.</long>
+      </locale>
+
+      <locale name="cy">
+        <short>Rhedeg y gorchymyn mewn terfynell</short>
+        <long>Gwir os dylid rhedeg y gorchymyn sy&apos;n delio â&apos;r math yma o LAU mewn terfynell.</long>
+      </locale>
+
+      <locale name="da">
+        <short>Kør kommandoen i en terminal</short>
+        <long>Sand hvis kommandoen til at håndtere denne type adresse skal køres i en terminal.</long>
+      </locale>
+
+      <locale name="de">
+        <short>Den Befehl in einem Terminal ausführen</short>
+        <long>Wahr, falls der Befehl zur Verarbeitung dieser Art von Adresse in einem Terminal ausgeführt werden soll.</long>
+      </locale>
+
+      <locale name="el">
+        <short>Εκτέλεση της εντολής σε τερματικό</short>
+        <long>Αληθές αν η εντολή που χρησιμοποιείται για τον χειρισμό των διευθύνσεων URL αυτού του τύπου πρέπει να εκτελείται σε τερματικό.</long>
+      </locale>
+
+      <locale name="en_AU">
+        <short>Run the command in a terminal</short>
+        <long>True if the command used to handle this type of URL should be run in a terminal.</long>
+      </locale>
+
+      <locale name="en_CA">
+        <short>Run the command in a terminal</short>
+        <long>True if the command used to handle this type of URL should be run in a terminal.</long>
+      </locale>
+
+      <locale name="en_GB">
+        <short>Run the command in a terminal</short>
+        <long>True if the command used to handle this type of URL should be run in a terminal.</long>
+      </locale>
+
+      <locale name="eo">
+        <short>Ruli komandon en terminalo</short>
+        <long>Vera se la komando uzata por trakti ĉi tiun specon de URL devus esti lanĉita en terminalo.</long>
+      </locale>
+
+      <locale name="es">
+        <short>Ejecutar la orden en un terminal</short>
+        <long>Cierto si la orden especifica para gestionar este tipo de URL debería ejecutarse en un terminal.</long>
+      </locale>
+
+      <locale name="et">
+        <short>Käivita käsk terminalis</short>
+        <long>Kui märgitud, siis seda liiki URLide jaoks kasutatav käsk käivitatakse terminalis.</long>
+      </locale>
+
+      <locale name="eu">
+        <short>Terminalean exekutatu agindua</short>
+        <long>Egia, URL-mota hau kudeatzeko erabilitako agindua terminalean exekutatu behar bada.</long>
+      </locale>
+
+      <locale name="fa">
+        <short>اجرای دستور در پایانه</short>
+        <long>صحیح اگر دستور مورد استفاده برای مدیریت این نوع نشانی باید در یک پایانه اجرا شود.</long>
+      </locale>
+
+      <locale name="fi">
+        <short>Suorita komento päätteessä</short>
+        <long>Tosi, jos tämäntyyppisen URL:n käsittelyyn käytettävä komento tulisi ajaa päätteessä.</long>
+      </locale>
+
+      <locale name="fr">
+        <short>Exécuter la commande dans un terminal</short>
+        <long>Vrai si la commande utilisée pour gérer ce type d&apos;URL doit être lancée dans un terminal.</long>
+      </locale>
+
+      <locale name="fr_CA">
+        <short>Exécuter la commande dans un terminal</short>
+        <long>Vrai si la commande utilisée pour gérer ce type d&apos;URL devrait être exécutée dans un terminal.</long>
+      </locale>
+
+      <locale name="ga">
+        <short>Cuir an t-ordú i bhfeidhm i dteirminéal</short>
+        <long>Fíor más mian leat URLanna den chineál seo a láimhseáil le hordú i dteirminéal.</long>
+      </locale>
+
+      <locale name="gd">
+        <short>Ruith an àithne ann an tèirmineal</short>
+        <long>True ma bu chòir dhan àithne a tha &apos;ga chleachdadh airson làimhseachadh URLaichean mar seo a ruith ann an tèirmineal.</long>
+      </locale>
+
+      <locale name="gl">
+        <short>Executar a orde nun terminal</short>
+        <long>É verdadeiro se a orde usada para manipular este tipo de URL debe ser executado nun terminal.</long>
+      </locale>
+
+      <locale name="he">
+        <short>הפעלת הפקודה במסוף</short>
+        <long>True if the command used to handle this type of URL should be run in a terminal.</long>
+      </locale>
+
+      <locale name="hi">
+        <short>निर्देश को टर्मिनल में चलाएं</short>
+        <long>सही यदि प्रोग्राम जो इस प्रकार के यूआरएल को हैंडल करने का अभ्यस्त है उसे टर्मिनल में चलाया जाना चाहिये.</long>
+      </locale>
+
+      <locale name="hr">
+        <short>Pokreni naredbu u terminalu</short>
+        <long>Istina ako bi naredba koja se koristi za rukovanje ovom vrstom URL-a, trebala biti pokrenuta u terminalu.</long>
+      </locale>
+
+      <locale name="hu">
+        <short>Parancs futtatása terminálban</short>
+        <long>Ha igazra van állítva, a „command” kulcsban beállított parancsnak terminálban kell futnia.</long>
+      </locale>
+
+      <locale name="ia">
+        <short>Facer fluer le commando in un terminal</short>
+        
+      </locale>
+
+      <locale name="id">
+        <short>Jalankan program di dalam terminal</short>
+        <long>Benar bila perintah yang digunakan untuk menangani jenis URL ini dijalankan dalam suatu terminal.</long>
+      </locale>
+
+      <locale name="is">
+        <short>Keyra skipunina í útstöð</short>
+        <long>Satt ef að skipunin sem á að höndla þessa tegund slóða á að keyrast í útstöð.</long>
+      </locale>
+
+      <locale name="it">
+        <short>Esegue il comando in un terminale</short>
+        <long>VERO se il comando utilizzato per gestire questa tipologia di URL deve essere eseguito in un terminale.</long>
+      </locale>
+
+      <locale name="ja">
+        <short>端末からコマンドを起動する</short>
+        <long>この種類の URL を処理するコマンドを端末内で実行する場合は TRUE にします。</long>
+      </locale>
+
+      <locale name="ka">
+        <short>ბრძანების ტერმინალში შესრულება</short>
+        <long>ჭეშმარიტია თუ ბრძანება ამ ტიპის URL-ების დასამუშავებლად ტერმინალში უნდა შესრულდეს.</long>
+      </locale>
+
+      <locale name="kk">
+        <short>Комманданы терминалды орындау</short>
+        <long>Егер бұл кілт қолданылған болса, &quot;apt&quot; сілтемелерін өңдеу бағдарламасы терминалда орындалатын болады.</long>
+      </locale>
+
+      <locale name="km">
+        <short>ដំណើរ​ការ​ពាក្យ​បញ្ជា​នៅ​ក្នុង​ស្ថានីយ</short>
+        <long>True បើ​សិន​ពាក្យ​បញ្ជា​ត្រូវ​បាន​ប្រើ​សម្រាប់​គ្រប់​គ្រង ​ប្រភេទ​ URL នេះ​នឹង​ត្រូវ​ដំណើរ​ការ​នៅ​ក្នុង​ស្ថានីយ ។</long>
+      </locale>
+
+      <locale name="ko">
+        <short>터미널에서 명령 실행</short>
+        <long>참이면 이런 종류의 URL을 처리하는 프로그램을 터미널에서 실행합니다.</long>
+      </locale>
+
+      <locale name="ku">
+        <short>Fermanê di termînalekê de bixebitîne</short>
+        
+      </locale>
+
+      <locale name="lt">
+        <short>Vykdyti komandą terminale</short>
+        
+      </locale>
+
+      <locale name="lv">
+        <short>Palaist komandu terminālī</short>
+        <long>Patiess, ja komandai, kas izmantota, lai apstrādātu ar šo URL tipu, jāpalaižas terminālī.</long>
+      </locale>
+
+      <locale name="mr">
+        <short>आदेश टर्मिनल मध्ये चालवा</short>
+        <long>या प्रकारचे URL हाताळण्या करीता टर्मिनल वर आदेश आढळत असल्यास खरे आहे.</long>
+      </locale>
+
+      <locale name="ms">
+        <short>Laksanakan program pada terminal</short>
+        <long>Benar sekiranya arahan digunakan untuk mengendali URL ini patut dilaksanakan pada terminal.</long>
+      </locale>
+
+      <locale name="nb">
+        <short>Kjør kommandoen i en terminal</short>
+        <long>Sett til sann hvis kommandoen satt til å håndtere denne typen URL bør kjøres i et terminalvindu.</long>
+      </locale>
+
+      <locale name="ne">
+        <short>टर्मिनलमा आदेश चलाउनुहोस् ।</short>
+        <long>यदि आदेशलाई यस प्रकारको url ह्यान्डल गर्न टर्मिनलमा चलाउनु पर्दछ भने ठीक हुन्छ ।</long>
+      </locale>
+
+      <locale name="nl">
+        <short>Opdracht in terminalvenster uitvoeren</short>
+        <long>Waar indien de opdracht om dit type URL af te handelen in een terminalvenster gestart dient te worden.</long>
+      </locale>
+
+      <locale name="oc">
+        <short>Aviar la comanda dins un terminal</short>
+        <long>Verai se la comanda utilizada per gerir aqueste tipe d&apos;URL deu èsser aviada dins un terminal</long>
+      </locale>
+
+      <locale name="pa">
+        <short>ਕਮਾਂਡ ਟਰਮੀਨਲ ਵਿੱਚ ਚਲਾਓ</short>
+        <long>ਸਹੀਂ, ਜੇ ਕਮਾਂਡ ਨੂੰ ਇਸ ਟਾਈਪ ਦੇ URL ਨੂੰ ਹੈਂਡਲ ਕਰਨ ਲਈ ਟਰਮੀਨਲ ਤੋਂ ਚਲਾਉਣਾ ਹੈ।</long>
+      </locale>
+
+      <locale name="pl">
+        <short>Uruchom polecenie w terminalu</short>
+        <long>Określa, czy polecenie obsługujące ten typ adresu URL powinno być wykonywane w terminalu.</long>
+      </locale>
+
+      <locale name="pt">
+        <short>Executar o comando numa consola</short>
+        <long>Verdadeiro se o comando utilizado para manipular este tipo de URL deverá ser executado numa consola.</long>
+      </locale>
+
+      <locale name="pt_BR">
+        <short>Executar o comando em um terminal</short>
+        <long>Verdadeiro se o comando usado para manipular esse tipo de URL deve ser executado em um terminal.</long>
+      </locale>
+
+      <locale name="ro">
+        <short>Pornește comanda într-un terminal</short>
+        <long>La activare, comanda asociată acestui tip de URL va fi pornită în terminal.</long>
+      </locale>
+
+      <locale name="ru">
+        <short>Выполнить команду в терминале</short>
+        <long>Если этот ключ установлен, то программа, определённая для обработки URL, будет запускаться в терминале.</long>
+      </locale>
+
+      <locale name="sk">
+        <short>Spustiť príkaz v termináli</short>
+        <long>Hodnota je pravda ak sa má príkaz na obsluhu tohto druhu URL spúšťať v termináli.</long>
+      </locale>
+
+      <locale name="sl">
+        <short>Poženi ukaz v terminalu</short>
+        <long>Izbrana možnost določi, da naj ukaz za upravljanje te vrste URL-ja teče v terminalu.</long>
+      </locale>
+
+      <locale name="sq">
+        <short>Ekzekuto komandën në një terminal</short>
+        <long>E vërtetë nëse komanda e përdorur për të trajtuar këtë lloj URL duhet të zbatohet në një terminal.</long>
+      </locale>
+
+      <locale name="sr">
+        <short>Покреће наредбу у терминалу.</short>
+        <long>Укључено ако наредба коришћена за управљање овом врстом адресе треба бити покренута у терминалу.</long>
+      </locale>
+
+      <locale name="sv">
+        <short>Kör kommandot i en terminal</short>
+        <long>Sant om kommandot för att hantera denna typ av URL ska köras i ett terminalfönster.</long>
+      </locale>
+
+      <locale name="ta">
+        <short>கட்டளையை ஒரு முனையத்தில் இயக்கு</short>
+        <long>சரியென்றால் கட்டளையானது இந்த வகையான URLஐ ஒரு முனையத்தில் கையாளும்.</long>
+      </locale>
+
+      <locale name="tg">
+        <short>Иҷро кардани фармон дар терминал</short>
+        <long>Дуруст агар фармоне, ки барои коркарди ин намуди суроғаи URL истифода мешавад, бояд дар терминал иҷро карда шавад.</long>
+      </locale>
+
+      <locale name="th">
+        <short>เรียกใช้คำสั่งในเทอร์มินัล</short>
+        <long>ตั้งเป็นค่าจริงถ้าโปรแกรมที่จัดการ URL นี้ควรถูกเรียกใช้ในเทอร์มินัล</long>
+      </locale>
+
+      <locale name="tr">
+        <short>Komutu bir uçbirim içerisinde çalıştır</short>
+        <long>Eğer seçiliyse, bu tür URL&apos;leri işletecek programın bir uçbirim içerisinde çalıştırılması gerekiyor demektir.</long>
+      </locale>
+
+      <locale name="ug">
+        <short>بۇيرۇقنى تېرمىنالدا ئىجرا قىلسۇن</short>
+        <long>بۇ خىل URL  نى بىر تەرەپ قىلىدىغان بۇيرۇقنى تېرمىنالدا ئىجرا قىلغاندا TRUE تاللىنىدۇ</long>
+      </locale>
+
+      <locale name="uk">
+        <short>Виконати команду у терміналі</short>
+        <long>Якщо цей ключ встановлено, то програма, визначена для обробки URL, буде запускатися у терміналі.</long>
+      </locale>
+
+      <locale name="ur">
+        <short>ٹرمینل میں كمانڈ چلائیے</short>
+        
+      </locale>
+
+      <locale name="uz">
+        <short>Буйруқни терминалда бажариш</short>
+        <long>Тўғри агар ушбу турдаги URL&apos;ларни қўллаш учун буйруқ терминалда бажарилса</long>
+      </locale>
+
+      <locale name="vec">
+        <short>Esegui el comando in on terminal</short>
+        <long>VERO se el comando utilixà par gestir sta tipologia de URL el deve esar eseguio in on terminale.</long>
+      </locale>
+
+      <locale name="vi">
+        <short>Chạy lệnh trong thiết bị cuối</short>
+        <long>Đúng nếu lệnh được dùng để xử lý URL kiểu này nên được dùng trong thiết bị cuối.</long>
+      </locale>
+
+      <locale name="zh_CN">
+        <short>在终端中运行命令</short>
+        <long>True 代表要处理此 URL 的程序应该在终端中运行。</long>
+      </locale>
+
+      <locale name="zh_HK">
+        <short>在終端機執行指令</short>
+        <long>若設定為真，處理此類網址的命令須在終端機執行。</long>
+      </locale>
+
+      <locale name="zh_TW">
+        <short>在終端機執行命令</short>
+        <long>若設定為真，處理此類網址的命令須在終端機執行。</long>
+      </locale>
+    </schema>
+  </schemalist>
+</gconfschemafile>
