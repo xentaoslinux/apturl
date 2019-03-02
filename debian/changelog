@@ -1,3 +1,9 @@
+apturl (0.5.4+xentaos2) batik; urgency=medium
+
+  * Initial Release
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Sat, 02 Mar 2019 19:01:07 +0700 
+
 apturl (0.5.3+xentaos7) batik; urgency=medium
 
   * Pembaharuan Berkas Debian

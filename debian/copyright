@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: apturl
-Upstream-Contact: Dindin Hernawan <dindin_hernawan@yahoo.com>
+Upstream-Contact: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Source: https://github.com/xentaoslinux/apturl
 
 Files: *

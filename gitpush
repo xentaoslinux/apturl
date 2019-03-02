@@ -13,7 +13,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 package=apturl
-version="apturl (0.5.3+xentaos7)"
+version="apturl (0.5.4+xentaos2)"
 figlet $package
 echo " Set Remote... "
 git remote set-url origin git@github.com:xentaoslinux/$package.git
